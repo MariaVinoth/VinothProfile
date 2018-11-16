@@ -195,10 +195,12 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\MyResume.cshtml" />
     <Content Include="Images\Vinod_Profile.jpg" />
+    <None Include="Files\Vinoth_John_Victor_Resume.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Files\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
