@@ -195,7 +195,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\MyResume.cshtml" />
     <Content Include="Images\Vinod_Profile.jpg" />
-    <None Include="Files\Vinoth_John_Victor_Resume.pdf" />
+    <None Include="Files\Maria_Vinoth_Kumar_Resume.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
